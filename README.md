@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henrique Paixao a Brazilian Dev
+- 👋 Hi, I’m Henrique Paixao, a Brazilian Dev
 - 👀 I’m interested in Front-End
 - 📫 How to reach me
 - My email: henriquemfpaixao@gmail.com
